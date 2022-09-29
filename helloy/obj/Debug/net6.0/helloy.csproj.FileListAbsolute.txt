@@ -1,0 +1,15 @@
+C:\Users\Inysik\Desktop\geekbr\helloWorld\helloy\bin\Debug\net6.0\helloy.exe
+C:\Users\Inysik\Desktop\geekbr\helloWorld\helloy\bin\Debug\net6.0\helloy.deps.json
+C:\Users\Inysik\Desktop\geekbr\helloWorld\helloy\bin\Debug\net6.0\helloy.runtimeconfig.json
+C:\Users\Inysik\Desktop\geekbr\helloWorld\helloy\bin\Debug\net6.0\helloy.dll
+C:\Users\Inysik\Desktop\geekbr\helloWorld\helloy\bin\Debug\net6.0\helloy.pdb
+C:\Users\Inysik\Desktop\geekbr\helloWorld\helloy\obj\Debug\net6.0\helloy.csproj.AssemblyReference.cache
+C:\Users\Inysik\Desktop\geekbr\helloWorld\helloy\obj\Debug\net6.0\helloy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inysik\Desktop\geekbr\helloWorld\helloy\obj\Debug\net6.0\helloy.AssemblyInfoInputs.cache
+C:\Users\Inysik\Desktop\geekbr\helloWorld\helloy\obj\Debug\net6.0\helloy.AssemblyInfo.cs
+C:\Users\Inysik\Desktop\geekbr\helloWorld\helloy\obj\Debug\net6.0\helloy.csproj.CoreCompileInputs.cache
+C:\Users\Inysik\Desktop\geekbr\helloWorld\helloy\obj\Debug\net6.0\helloy.dll
+C:\Users\Inysik\Desktop\geekbr\helloWorld\helloy\obj\Debug\net6.0\refint\helloy.dll
+C:\Users\Inysik\Desktop\geekbr\helloWorld\helloy\obj\Debug\net6.0\helloy.pdb
+C:\Users\Inysik\Desktop\geekbr\helloWorld\helloy\obj\Debug\net6.0\helloy.genruntimeconfig.cache
+C:\Users\Inysik\Desktop\geekbr\helloWorld\helloy\obj\Debug\net6.0\ref\helloy.dll
